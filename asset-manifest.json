@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Cryptotrack/static/css/main.e64ebfa3.css",
-    "main.js": "/Cryptotrack/static/js/main.b5d877f7.js",
+    "main.js": "/Cryptotrack/static/js/main.3d0a7f78.js",
     "index.html": "/Cryptotrack/index.html",
     "main.e64ebfa3.css.map": "/Cryptotrack/static/css/main.e64ebfa3.css.map",
-    "main.b5d877f7.js.map": "/Cryptotrack/static/js/main.b5d877f7.js.map"
+    "main.3d0a7f78.js.map": "/Cryptotrack/static/js/main.3d0a7f78.js.map"
   },
   "entrypoints": [
     "static/css/main.e64ebfa3.css",
-    "static/js/main.b5d877f7.js"
+    "static/js/main.3d0a7f78.js"
   ]
 }
